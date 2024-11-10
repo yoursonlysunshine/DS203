@@ -1,0 +1,653 @@
+File: 88.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.0983284e-01 2.0223312e-02 2.0501337e-03 1.9126985e-04 6.7693971e-02
+ 8.4477479e-06]
+Confidence (Max Probability): 0.9098328351974487
+
+File: 77.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9339819e-01 3.1385492e-03 1.6659895e-04 3.2956488e-03 1.0124570e-06
+ 6.8556516e-09]
+Confidence (Max Probability): 0.9933981895446777
+
+File: 63.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [1.3906383e-03 1.8799467e-06 1.2430502e-04 1.7101984e-04 9.9828953e-01
+ 2.2554337e-05]
+Confidence (Max Probability): 0.9982895255088806
+
+File: 62.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9772221e-01 8.0394972e-04 1.1372908e-03 3.0717223e-05 3.0591909e-04
+ 7.3712076e-09]
+Confidence (Max Probability): 0.9977222084999084
+
+File: 76.png
+predicted class label :inconclusive predictionProbabilities for each class: [5.8691680e-01 4.1029507e-01 1.4110128e-03 1.3611079e-03 7.4418108e-06
+ 8.6036061e-06]
+Confidence (Max Probability): 0.5869168043136597
+
+File: 89.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.2163871e-01 7.6513392e-01 1.6041832e-03 1.1582311e-02 1.0658785e-06
+ 3.9809755e-05]
+Confidence (Max Probability): 0.7651339173316956
+
+File: 60.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [2.7155843e-06 5.2477612e-06 5.3560527e-08 9.9998772e-01 3.1617212e-11
+ 4.2997467e-06]
+Confidence (Max Probability): 0.9999877214431763
+
+File: 74.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9081439e-01 9.1553144e-03 1.2487705e-05 8.3070375e-08 1.7819533e-05
+ 1.8170956e-09]
+Confidence (Max Probability): 0.9908143877983093
+
+File: 48.png
+predicted class label :inconclusive predictionProbabilities for each class: [6.5249383e-02 3.9758901e-03 3.8500082e-01 2.1664491e-03 5.4347527e-01
+ 1.3217996e-04]
+Confidence (Max Probability): 0.5434752702713013
+
+File: 49.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.6506941e-01 7.4248593e-03 3.0017284e-06 2.7502481e-02 1.3128214e-07
+ 7.9186357e-08]
+Confidence (Max Probability): 0.9650694131851196
+
+File: 75.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.8993546e-01 1.3730575e-03 6.4886169e-04 1.9172047e-08 8.0426047e-03
+ 2.1175348e-08]
+Confidence (Max Probability): 0.9899354577064514
+
+File: 61.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [8.4321486e-04 1.6247577e-07 7.7167973e-03 1.2571127e-07 9.9143970e-01
+ 8.4497964e-09]
+Confidence (Max Probability): 0.991439700126648
+
+File: 59.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [1.3516733e-04 2.0861474e-03 6.6616223e-05 9.7227669e-01 3.1710354e-07
+ 2.5435038e-02]
+Confidence (Max Probability): 0.9722766876220703
+
+File: 65.png
+predicted class label :National Anthem_masked
+Probabilities for each class: [1.0813174e-02 6.1253019e-02 8.8709170e-01 3.7680391e-02 8.2037278e-04
+ 2.3413156e-03]
+Confidence (Max Probability): 0.8870916962623596
+
+File: 71.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9770528e-01 5.1147951e-04 5.4590982e-06 1.7537654e-03 2.0419451e-05
+ 3.7621014e-06]
+Confidence (Max Probability): 0.9977052807807922
+
+File: 70.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9805570e-01 6.7252055e-04 2.9505800e-06 1.2531393e-03 1.5589287e-05
+ 7.6327687e-08]
+Confidence (Max Probability): 0.9980556964874268
+
+File: 64.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9989939e-01 8.2261431e-06 2.5461551e-07 9.2040747e-05 1.5274824e-07
+ 1.6857335e-10]
+Confidence (Max Probability): 0.9998993873596191
+
+File: 58.png
+predicted class label :National Anthem_masked
+Probabilities for each class: [7.0555881e-04 1.4611566e-02 9.7817582e-01 5.5571492e-03 7.2451588e-04
+ 2.2536919e-04]
+Confidence (Max Probability): 0.9781758189201355
+
+File: 99.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9740368e-01 2.4779642e-04 1.2583148e-06 2.3472407e-03 4.3625494e-08
+ 4.9360174e-09]
+Confidence (Max Probability): 0.9974036812782288
+
+File: 8.png
+predicted class label :MJ_masked
+Probabilities for each class: [8.4186513e-03 9.9158126e-01 1.7072222e-07 7.9489032e-10 6.3444241e-09
+ 1.7330775e-08]
+Confidence (Max Probability): 0.9915812611579895
+
+File: 72.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9933064e-01 3.3404373e-05 5.4258480e-06 6.2877353e-04 1.7504490e-06
+ 7.7189538e-10]
+Confidence (Max Probability): 0.9993306398391724
+
+File: 66.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.7404284e-01 2.3855653e-02 5.7781825e-04 6.1956602e-01 1.9238289e-02
+ 6.2719442e-02]
+Confidence (Max Probability): 0.619566023349762
+
+File: 67.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [3.4918156e-02 1.2405952e-06 3.2140841e-04 2.8252830e-03 9.6191633e-01
+ 1.7510345e-05]
+Confidence (Max Probability): 0.9619163274765015
+
+File: 73.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.99914050e-01 1.00852312e-05 6.91376734e-09 7.58207971e-05
+ 1.05226095e-08 4.45366244e-11]
+Confidence (Max Probability): 0.9999140501022339
+
+File: 9.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.1032882e-03 6.9228269e-04 1.3710531e-04 4.4901758e-01 3.1084969e-04
+ 5.4773891e-01]
+Confidence (Max Probability): 0.5477389097213745
+
+File: 98.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.6035612e-01 3.9267085e-02 3.7274833e-04 1.2710664e-12 3.9537972e-06
+ 2.9677621e-12]
+Confidence (Max Probability): 0.9603561162948608
+
+File: 115.png
+predicted class label :inconclusive predictionProbabilities for each class: [5.07843383e-02 1.71795818e-05 4.53324616e-02 1.16911225e-01
+ 7.86944985e-01 9.78103526e-06]
+Confidence (Max Probability): 0.7869449853897095
+
+File: 101.png
+predicted class label :inconclusive predictionProbabilities for each class: [1.9657119e-01 2.0479415e-02 8.0119763e-03 7.7469933e-01 1.3309190e-04
+ 1.0502262e-04]
+Confidence (Max Probability): 0.774699330329895
+
+File: 14.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9052233e-01 4.7808440e-04 1.2443379e-04 8.8749668e-03 9.8272054e-08
+ 1.3367368e-09]
+Confidence (Max Probability): 0.9905223250389099
+
+File: 28.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [9.5064148e-05 1.6008199e-08 6.2543995e-06 4.1857656e-05 9.9985504e-01
+ 1.7856871e-06]
+Confidence (Max Probability): 0.9998550415039062
+
+File: 29.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [4.1545182e-02 4.1327559e-05 7.7049322e-03 4.5506731e-03 9.4591522e-01
+ 2.4268367e-04]
+Confidence (Max Probability): 0.9459152221679688
+
+File: 15.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.7453580e-01 7.1684527e-01 7.4744481e-03 7.6102000e-04 3.6423971e-04
+ 1.9311557e-05]
+Confidence (Max Probability): 0.7168452739715576
+
+File: 100.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [2.1679953e-02 2.1833747e-04 3.9204070e-04 9.6228731e-01 7.5647142e-03
+ 7.8576645e-03]
+Confidence (Max Probability): 0.9622873067855835
+
+File: 114.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.0373594e-01 5.4045627e-03 7.1359724e-02 8.4920664e-08 1.9499585e-02
+ 1.3525477e-07]
+Confidence (Max Probability): 0.9037359356880188
+
+File: 102.png
+predicted class label :Lavani_masked
+Probabilities for each class: [8.5067517e-01 6.5970962e-04 6.6033622e-06 1.4864044e-01 1.0396812e-05
+ 7.7529148e-06]
+Confidence (Max Probability): 0.8506751656532288
+
+File: 116.png
+predicted class label :inconclusive predictionProbabilities for each class: [7.3936278e-01 1.8548494e-06 9.4911292e-02 3.1669412e-03 1.6255715e-01
+ 2.7180661e-08]
+Confidence (Max Probability): 0.7393627762794495
+
+File: 17.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [1.7631158e-02 8.8204973e-07 6.4357384e-03 6.1317161e-07 9.7593158e-01
+ 4.1723252e-09]
+Confidence (Max Probability): 0.9759315848350525
+
+File: 16.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [3.3704836e-02 4.4312278e-06 3.2480802e-02 6.3959797e-06 9.3380350e-01
+ 2.0388981e-08]
+Confidence (Max Probability): 0.9338034987449646
+
+File: 103.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.1428947e-01 6.3376501e-02 2.0403462e-03 1.0727957e-07 2.0293260e-02
+ 2.3759603e-07]
+Confidence (Max Probability): 0.9142894744873047
+
+File: 107.png
+predicted class label :National Anthem_masked
+Probabilities for each class: [8.1552025e-03 2.0318177e-05 9.9008781e-01 1.3697384e-07 1.7365622e-03
+ 9.9349348e-11]
+Confidence (Max Probability): 0.9900878071784973
+
+File: 113.png
+predicted class label :inconclusive predictionProbabilities for each class: [3.7222332e-01 6.2772536e-01 4.6086559e-05 4.0676814e-06 9.7059365e-07
+ 2.1946161e-07]
+Confidence (Max Probability): 0.62772536277771
+
+File: 12.png
+predicted class label :inconclusive predictionProbabilities for each class: [3.9794514e-01 1.7969272e-01 3.6269170e-01 5.9462693e-02 2.0637835e-04
+ 1.3993753e-06]
+Confidence (Max Probability): 0.3979451358318329
+
+File: 13.png
+predicted class label :Lavani_masked
+Probabilities for each class: [8.7655604e-01 7.9467893e-02 6.7567672e-03 3.7218489e-02 6.6444287e-08
+ 7.0830600e-07]
+Confidence (Max Probability): 0.8765560388565063
+
+File: 112.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9396133e-01 5.9495172e-03 5.5735654e-05 2.3691944e-05 9.7711381e-06
+ 9.8142642e-08]
+Confidence (Max Probability): 0.9939613342285156
+
+File: 106.png
+predicted class label :inconclusive predictionProbabilities for each class: [3.8745299e-01 5.3984658e-03 5.3231990e-01 5.8119625e-02 1.6707420e-02
+ 1.5565932e-06]
+Confidence (Max Probability): 0.5323199033737183
+
+File: 110.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [4.5923530e-03 1.6051565e-03 1.9084267e-05 9.9339628e-01 9.6324482e-07
+ 3.8613204e-04]
+Confidence (Max Probability): 0.9933962821960449
+
+File: 104.png
+predicted class label :Lavani_masked
+Probabilities for each class: [8.6512977e-01 5.2160867e-03 1.2701802e-01 6.7620686e-06 2.6291865e-03
+ 1.2181837e-07]
+Confidence (Max Probability): 0.8651297688484192
+
+File: 39.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9951351e-01 6.0323168e-06 2.7742779e-09 4.8039231e-04 4.4870387e-09
+ 4.5983213e-12]
+Confidence (Max Probability): 0.9995135068893433
+
+File: 11.png
+predicted class label :MJ_masked
+Probabilities for each class: [3.0384436e-02 9.6133494e-01 5.1395199e-03 3.1198028e-03 1.4148296e-07
+ 2.1092384e-05]
+Confidence (Max Probability): 0.9613349437713623
+
+File: 10.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.4272518e-01 2.1841088e-03 7.0924987e-05 6.3865389e-09 5.5001862e-02
+ 1.7942326e-05]
+Confidence (Max Probability): 0.9427251815795898
+
+File: 38.png
+predicted class label :inconclusive predictionProbabilities for each class: [4.4251770e-01 5.3438583e-07 6.6691206e-04 1.0032745e-03 5.5581069e-01
+ 8.3852893e-07]
+Confidence (Max Probability): 0.5558106899261475
+
+File: 105.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.91876006e-01 7.43633063e-06 1.02003694e-04 1.42075401e-03
+ 6.59336941e-03 4.56942388e-07]
+Confidence (Max Probability): 0.9918760061264038
+
+File: 111.png
+predicted class label :inconclusive predictionProbabilities for each class: [0.36186767 0.02716571 0.00190406 0.22901754 0.18693261 0.19311236]
+Confidence (Max Probability): 0.36186766624450684
+
+File: 108.png
+predicted class label :inconclusive predictionProbabilities for each class: [3.1332889e-01 1.3276957e-03 6.7557001e-01 6.3459134e-07 9.7728418e-03
+ 1.7240253e-09]
+Confidence (Max Probability): 0.675570011138916
+
+File: 35.png
+predicted class label :National Anthem_masked
+Probabilities for each class: [3.5954398e-04 1.6615204e-05 9.9957424e-01 1.8036330e-08 4.9577069e-05
+ 3.0787001e-11]
+Confidence (Max Probability): 0.9995742440223694
+
+File: 21.png
+predicted class label :MJ_masked
+Probabilities for each class: [3.0754902e-03 9.3211520e-01 3.2537072e-03 5.8770407e-02 7.7170735e-06
+ 2.7775771e-03]
+Confidence (Max Probability): 0.9321151971817017
+
+File: 20.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.6579641e-01 1.1616911e-02 1.9100615e-03 2.0649295e-02 2.6064179e-05
+ 1.1727768e-06]
+Confidence (Max Probability): 0.9657964110374451
+
+File: 34.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.6996772e-01 1.9357688e-06 4.8979596e-06 1.2752319e-06 3.0024137e-02
+ 6.0509642e-10]
+Confidence (Max Probability): 0.9699677228927612
+
+File: 109.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.6761137e-01 6.5921955e-03 1.9218229e-02 5.8015999e-03 7.7621912e-04
+ 4.1189256e-07]
+Confidence (Max Probability): 0.9676113724708557
+
+File: 22.png
+predicted class label :inconclusive predictionProbabilities for each class: [1.1983668e-03 5.4393429e-01 3.9515719e-03 4.4892535e-01 1.9079098e-06
+ 1.9885767e-03]
+Confidence (Max Probability): 0.5439342856407166
+
+File: 36.png
+predicted class label :MJ_masked
+Probabilities for each class: [1.09730944e-01 8.02794993e-01 5.15237730e-03 8.11093301e-02
+ 3.28934839e-05 1.17953029e-03]
+Confidence (Max Probability): 0.8027949929237366
+
+File: 37.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [4.0392239e-02 3.5058153e-03 6.4138025e-03 1.1993878e-03 9.4802654e-01
+ 4.6220637e-04]
+Confidence (Max Probability): 0.9480265378952026
+
+File: 23.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [4.9027734e-05 2.2117390e-06 1.1280670e-05 9.9990165e-01 1.3231731e-06
+ 3.4430243e-05]
+Confidence (Max Probability): 0.9999016523361206
+
+File: 27.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.4880995e-03 1.5027435e-07 5.5271018e-01 2.2504380e-05 4.4477907e-01
+ 1.1736986e-09]
+Confidence (Max Probability): 0.5527101755142212
+
+File: 33.png
+predicted class label :Lavani_masked
+Probabilities for each class: [8.1595790e-01 5.1441671e-06 2.2342824e-04 1.8380173e-01 1.1741721e-05
+ 2.3006026e-08]
+Confidence (Max Probability): 0.8159579038619995
+
+File: 32.png
+predicted class label :inconclusive predictionProbabilities for each class: [5.2838874e-01 5.0859540e-03 4.8118036e-02 3.4070923e-05 4.1837296e-01
+ 2.1600628e-07]
+Confidence (Max Probability): 0.5283887386322021
+
+File: 26.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [2.6117818e-02 1.9481692e-04 3.5335036e-04 8.2007181e-03 9.6108735e-01
+ 4.0459754e-03]
+Confidence (Max Probability): 0.9610873460769653
+
+File: 18.png
+predicted class label :inconclusive predictionProbabilities for each class: [0.02043469 0.00074781 0.00175572 0.70705354 0.11852252 0.15148564]
+Confidence (Max Probability): 0.707053542137146
+
+File: 30.png
+predicted class label :inconclusive predictionProbabilities for each class: [7.5052041e-01 6.7264937e-02 1.0067199e-01 7.5924344e-02 5.4904842e-03
+ 1.2783495e-04]
+Confidence (Max Probability): 0.7505204081535339
+
+File: 24.png
+predicted class label :National Anthem_masked
+Probabilities for each class: [2.3407981e-02 2.5390947e-04 9.1663980e-01 4.2760850e-05 5.9655380e-02
+ 1.9526493e-07]
+Confidence (Max Probability): 0.9166398048400879
+
+File: 25.png
+predicted class label :Lavani_masked
+Probabilities for each class: [8.5848236e-01 6.8523042e-02 4.4706077e-03 6.8371601e-02 7.9166173e-05
+ 7.3255018e-05]
+Confidence (Max Probability): 0.8584823608398438
+
+File: 31.png
+predicted class label :Lavani_masked
+Probabilities for each class: [8.80435884e-01 1.37898853e-04 1.15996285e-04 2.58117583e-10
+ 1.19310215e-01 7.19133253e-10]
+Confidence (Max Probability): 0.8804358839988708
+
+File: 19.png
+predicted class label :inconclusive predictionProbabilities for each class: [7.0946318e-01 1.1308400e-02 4.2726714e-03 2.7492756e-01 2.4145034e-05
+ 4.1220237e-06]
+Confidence (Max Probability): 0.7094631791114807
+
+File: 95.png
+predicted class label :inconclusive predictionProbabilities for each class: [1.9063331e-01 2.9424246e-02 7.7993309e-01 7.7466166e-07 8.5177480e-06
+ 3.8773659e-10]
+Confidence (Max Probability): 0.7799330949783325
+
+File: 81.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.4833679e-04 2.4217366e-07 2.0701347e-01 9.8061344e-07 7.9273361e-01
+ 3.3421350e-06]
+Confidence (Max Probability): 0.7927336096763611
+
+File: 4.png
+predicted class label :inconclusive predictionProbabilities for each class: [6.02456927e-01 3.97176087e-01 1.19933124e-04 2.46924988e-04
+ 1.30313907e-07 1.23565416e-08]
+Confidence (Max Probability): 0.6024569272994995
+
+File: 56.png
+predicted class label :inconclusive predictionProbabilities for each class: [4.5098743e-01 4.1978739e-02 1.3280162e-01 3.7339094e-01 6.9971668e-04
+ 1.4149737e-04]
+Confidence (Max Probability): 0.45098742842674255
+
+File: 42.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.8390132e-01 9.9323597e-04 6.7578997e-03 4.2821807e-03 4.0637050e-03
+ 1.7299303e-06]
+Confidence (Max Probability): 0.98390132188797
+
+File: 43.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9699795e-01 2.1114415e-06 1.4686511e-06 2.9983448e-03 8.4704723e-08
+ 1.0700294e-10]
+Confidence (Max Probability): 0.9969979524612427
+
+File: 5.png
+predicted class label :inconclusive predictionProbabilities for each class: [1.7637038e-04 5.3046393e-04 6.8763137e-04 4.8509052e-01 6.2869280e-05
+ 5.1345217e-01]
+Confidence (Max Probability): 0.5134521722793579
+
+File: 57.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [7.1321228e-05 6.5730553e-08 2.1034821e-03 1.9892275e-06 9.9782276e-01
+ 3.9022078e-07]
+Confidence (Max Probability): 0.9978227615356445
+
+File: 80.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [3.4682313e-04 6.9742717e-05 5.7233325e-07 9.9709570e-01 1.4661331e-06
+ 2.4856839e-03]
+Confidence (Max Probability): 0.9970957040786743
+
+File: 94.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.8844296e-01 8.2051771e-04 3.6885622e-03 3.6726317e-03 3.3721041e-03
+ 3.3412607e-06]
+Confidence (Max Probability): 0.9884429574012756
+
+File: 82.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [7.6622479e-03 2.2593244e-04 7.8735002e-06 9.8939228e-01 3.7169284e-05
+ 2.6745417e-03]
+Confidence (Max Probability): 0.9893922805786133
+
+File: 96.png
+predicted class label :inconclusive predictionProbabilities for each class: [0.5736877  0.00670185 0.00225278 0.34181815 0.03092122 0.04461831]
+Confidence (Max Probability): 0.5736876726150513
+
+File: 41.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9974233e-01 2.3960829e-04 3.1623708e-06 1.3854753e-05 1.0401038e-06
+ 1.0909141e-09]
+Confidence (Max Probability): 0.999742329120636
+
+File: 55.png
+predicted class label :inconclusive predictionProbabilities for each class: [3.2032916e-01 3.7457603e-03 1.5264578e-01 9.5661235e-05 5.2317452e-01
+ 9.1506454e-06]
+Confidence (Max Probability): 0.523174524307251
+
+File: 7.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [2.1481514e-02 4.0811932e-04 9.8738086e-04 9.7710735e-01 9.7505135e-06
+ 5.9108502e-06]
+Confidence (Max Probability): 0.9771073460578918
+
+File: 69.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.4380516e-01 7.5619465e-01 1.6911143e-07 1.4067468e-13 2.2610960e-08
+ 5.5592852e-12]
+Confidence (Max Probability): 0.7561946511268616
+
+File: 68.png
+predicted class label :inconclusive predictionProbabilities for each class: [1.9190109e-01 7.9733658e-01 9.8885894e-03 1.4699344e-04 7.1914156e-04
+ 7.7085260e-06]
+Confidence (Max Probability): 0.7973365783691406
+
+File: 54.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.4156749e-01 7.2081000e-01 3.1193718e-02 6.4171426e-04 5.4866537e-03
+ 3.0047269e-04]
+Confidence (Max Probability): 0.7208099961280823
+
+File: 6.png
+predicted class label :MJ_masked
+Probabilities for each class: [1.5358366e-02 9.8127156e-01 3.3448148e-03 2.5327025e-05 7.7225298e-10
+ 5.3453697e-08]
+Confidence (Max Probability): 0.9812715649604797
+
+File: 40.png
+predicted class label :inconclusive predictionProbabilities for each class: [4.7942489e-01 1.5437234e-03 4.6759110e-04 5.1767445e-01 6.3973194e-04
+ 2.4963831e-04]
+Confidence (Max Probability): 0.517674446105957
+
+File: 97.png
+predicted class label :inconclusive predictionProbabilities for each class: [3.5468042e-02 4.4385064e-04 7.9672236e-04 8.3460525e-02 7.1441001e-01
+ 1.6542086e-01]
+Confidence (Max Probability): 0.7144100069999695
+
+File: 83.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [1.6318843e-02 4.1755942e-05 3.1540436e-03 6.3086970e-04 9.7978687e-01
+ 6.7609508e-05]
+Confidence (Max Probability): 0.9797868728637695
+
+File: 87.png
+predicted class label :National Anthem_masked
+Probabilities for each class: [1.0596585e-01 3.2937542e-02 8.6109507e-01 8.5904102e-09 1.5168320e-06
+ 2.2196703e-11]
+Confidence (Max Probability): 0.8610950708389282
+
+File: 93.png
+predicted class label :inconclusive predictionProbabilities for each class: [0.1252197  0.07421189 0.01970594 0.17318183 0.02725775 0.5804229 ]
+Confidence (Max Probability): 0.5804228782653809
+
+File: 78.png
+predicted class label :MJ_masked
+Probabilities for each class: [3.4355666e-02 9.6449381e-01 1.0932696e-03 3.9244827e-05 1.2087745e-05
+ 5.8403534e-06]
+Confidence (Max Probability): 0.9644938111305237
+
+File: 44.png
+predicted class label :inconclusive predictionProbabilities for each class: [6.9650352e-01 3.0339089e-01 9.7483542e-05 5.4528382e-09 8.1582357e-06
+ 4.9132576e-10]
+Confidence (Max Probability): 0.6965035200119019
+
+File: 2.png
+predicted class label :inconclusive predictionProbabilities for each class: [7.8826895e-05 9.4204617e-09 4.6511269e-01 6.6166635e-06 5.3480178e-01
+ 1.5341617e-10]
+Confidence (Max Probability): 0.5348017811775208
+
+File: 50.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [2.6215499e-03 2.2069516e-06 8.3420679e-07 6.7863986e-04 9.9479288e-01
+ 1.9038715e-03]
+Confidence (Max Probability): 0.9947928786277771
+
+File: 3.png
+predicted class label :MJ_masked
+Probabilities for each class: [5.9100934e-03 9.9405527e-01 2.9745021e-05 1.2780694e-06 6.6739165e-07
+ 2.9400121e-06]
+Confidence (Max Probability): 0.9940552711486816
+
+File: 51.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [3.5531313e-05 1.9079700e-04 6.5848162e-06 9.0404183e-01 1.3710167e-06
+ 9.5723905e-02]
+Confidence (Max Probability): 0.9040418267250061
+
+File: 45.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.8306934e-01 7.0598680e-01 1.0802473e-02 5.4928082e-06 1.3476209e-04
+ 1.1479420e-06]
+Confidence (Max Probability): 0.7059867978096008
+
+File: 79.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [1.0544149e-01 1.8809089e-03 7.9817732e-04 8.9187682e-01 1.0504436e-06
+ 1.5755002e-06]
+Confidence (Max Probability): 0.8918768167495728
+
+File: 92.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [4.5036821e-05 3.6682168e-03 1.2307587e-01 8.7200737e-01 4.5805918e-06
+ 1.1990049e-03]
+Confidence (Max Probability): 0.8720073699951172
+
+File: 86.png
+predicted class label :MJ_masked
+Probabilities for each class: [1.9625770e-02 9.8037326e-01 9.0078873e-07 9.7083042e-10 2.3574334e-08
+ 1.2065277e-09]
+Confidence (Max Probability): 0.9803732633590698
+
+File: 90.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [3.0510295e-05 1.1613026e-09 4.8685318e-04 6.8876666e-08 9.9948251e-01
+ 1.0928110e-09]
+Confidence (Max Probability): 0.9994825124740601
+
+File: 84.png
+predicted class label :asha_bhosle_masked
+Probabilities for each class: [4.8753090e-04 3.0630062e-04 9.5815985e-06 9.4565195e-01 1.6741455e-05
+ 5.3527869e-02]
+Confidence (Max Probability): 0.9456519484519958
+
+File: 53.png
+predicted class label :MJ_masked
+Probabilities for each class: [5.05325459e-02 9.49463069e-01 4.46248441e-06 3.03964423e-11
+ 1.01028546e-08 7.61776961e-11]
+Confidence (Max Probability): 0.9494630694389343
+
+File: 1.png
+predicted class label :bhavgit_masked
+Probabilities for each class: [2.5285271e-03 1.9532662e-09 2.0449169e-03 1.6226350e-09 9.9542660e-01
+ 2.5291583e-11]
+Confidence (Max Probability): 0.995426595211029
+
+File: 47.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.9999785e-01 1.7993212e-06 5.2685318e-09 1.7502494e-07 1.0837396e-07
+ 1.1804293e-11]
+Confidence (Max Probability): 0.9999978542327881
+
+File: 46.png
+predicted class label :inconclusive predictionProbabilities for each class: [0.02941998 0.00404661 0.02053975 0.613248   0.25204214 0.0807035 ]
+Confidence (Max Probability): 0.6132479906082153
+
+File: 52.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.6887539e-01 4.3549737e-01 6.7242538e-04 2.9466558e-01 9.1322727e-06
+ 2.7998732e-04]
+Confidence (Max Probability): 0.43549737334251404
+
+File: 85.png
+predicted class label :inconclusive predictionProbabilities for each class: [2.4996622e-01 1.3188705e-01 1.5455056e-02 6.0266137e-01 5.1039492e-06
+ 2.5242789e-05]
+Confidence (Max Probability): 0.6026613712310791
+
+File: 91.png
+predicted class label :Lavani_masked
+Probabilities for each class: [9.6792674e-01 3.1491209e-02 2.7493446e-04 3.0541062e-04 1.5397706e-06
+ 8.7801567e-08]
+Confidence (Max Probability): 0.9679267406463623
+
+
+Average model confidence across all images: 0.8434345126152039
